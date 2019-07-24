@@ -1,0 +1,8 @@
+   header tr_crimes
+1                                                Rape     32746
+2                            Kidnapping.and.Abduction     29012
+3                                        Dowry.Deaths     13644
+4 Assault.on.women.with.intent.to.outrage.her.modesty     67886
+5                          Insult.to.modesty.of.Women     20310
+6                 cruelty.by.Husband.or.his.Relatives     98474
+7                                Importation.of.Girls       152

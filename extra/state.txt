@@ -1,0 +1,14 @@
+[1] A & N ISLANDS     ANDHRA PRADESH    ARUNACHAL PRADESH ASSAM            
+ BIHAR             CHANDIGARH        CHHATTISGARH     
+ 
+[8] D & N HAVELI      DAMAN & DIU       DELHI             GOA           
+    GUJARAT           HARYANA           HIMACHAL PRADESH 
+
+[15] JAMMU & KASHMIR   JHARKHAND         KARNATAKA         KERALA      
+      LAKSHADWEEP       MADHYA PRADESH    MAHARASHTRA      
+
+[22] MANIPUR           MEGHALAYA         MIZORAM           NAGALAND    
+      ODISHA            PUDUCHERRY        PUNJAB           
+
+[29] RAJASTHAN         SIKKIM            TAMIL NADU        TRIPURA     
+      UTTAR PRADESH     UTTARAKHAND       WEST BENGAL      
